@@ -1,102 +1,71 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Magrash%20AI%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Magrash%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Magrash</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | Backend Developer</h3>
+<h3 align="center">AI Engineer | Machine Learning Specialist | AI Systems Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Specialist;LLM+and+RAG+Systems+Developer;AI+Agents+Builder;Industrial+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Specialist;LLM+and+RAG+Systems+Developer;AI+Agents+Architect;Industrial+AI+Builder;Scalable+AI+Systems" />
 </p>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-🚀 I’m currently focused on **Large Language Models (LLMs)** and building advanced **Retrieval-Augmented Generation (RAG)** systems.
+🧠 AI Engineer focused on building **real-world intelligent systems**.
 
-💻 My expertise lies in creating **local, secure, and highly efficient AI agents**.
-
-📊 I have experience with **Machine Learning algorithms** such as:
-- Random Forest
-- Classification models
-- Predictive AI systems
-
-⚙️ Deeply interested in the intersection of:
-- AI Systems
-- Backend Architecture
-- Scalable AI Infrastructure
-- Production Machine Learning
-
-Currently building:
+🔬 My main focus areas:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
-- RAG Platforms
-- Intelligent Monitoring Systems
-- Industrial AI Applications
+- Production AI Systems
+- AI + Backend Architectures
+- Industrial AI Platforms
 
-📫 Reach me:  
+⚡ I specialize in building:
+- Local AI systems
+- Scalable AI platforms
+- Intelligent automation solutions
+- AI-powered monitoring systems
+
+📫 Contact  
 Email: **magrash6@gmail.com**  
 LinkedIn: **https://linkedin.com/in/abdalrahman-magrash**
 
 ---
 
-# 🚀 AI Engineering Expertise
+# 🧠 AI Domains
 
-- Machine Learning
-- Deep Learning
-- AI System Architecture
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Computer Vision
-- Industrial AI
-- Autonomous Systems
-- AI Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,opencv,fastapi,react,js,git,linux" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🧰 Tech Stack
 
 ## AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
 - PyTorch
 - TensorFlow
 - Scikit-learn
 - Hugging Face
 - LangChain
-- RAG Pipelines
 - Vector Databases
+- RAG Pipelines
 - AI Agents
 
----
-
-## Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,docker,aws" />
-</p>
-
+## Backend Systems
 - FastAPI
-- REST APIs
+- Python APIs
 - Microservices
 - Docker
-- PostgreSQL
-- MongoDB
-- Cloud Deployment
+- Cloud Infrastructure
 
----
-
-## Frontend & Web
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
-</p>
-
+## Frontend
 - React
 - JavaScript
-- Web Applications
 - AI Dashboards
 
 ---
@@ -104,51 +73,49 @@ LinkedIn: **https://linkedin.com/in/abdalrahman-magrash**
 # 🔥 Featured Projects
 
 ## 🤖 RAG AI Agent
-A full-stack RAG web application built with:
-
+Full-stack intelligent system built with:
 - FastAPI
 - LangChain
 - ChromaDB
 - React
 
-Features:
-- Intelligent document retrieval
-- Context-aware question answering
-- Modern AI chat interface
-- Scalable architecture
+Capabilities:
+- Document retrieval
+- AI reasoning
+- Context-based responses
 
 ---
 
-## 🫀 Heart Disease Prediction Model
-An AI-powered web application utilizing a **Random Forest Classifier** built with:
-
+## 🫀 Heart Disease Prediction
+Machine learning model using:
+- Random Forest
 - Scikit-learn
 - Flask
-- Machine Learning pipelines
 
-Capabilities:
-- Predict disease likelihood
-- Clinical dataset analysis
-- High-accuracy predictions
+Used for:
+- Predictive analytics
+- Medical dataset modeling
 
 ---
 
-## 🔐 Local AI Agent (LangChain & Ollama)
-A completely local AI system designed for:
+## 🔐 Local AI Agent
+Privacy-focused AI system running locally.
 
-- Privacy-focused AI
-- Local LLM inference
-- Offline AI assistant
-- Secure AI architecture
-
-Technologies:
-- LangChain
+Tech:
 - Ollama
-- Local LLM models
+- LangChain
+- Local LLM inference
 
 ---
 
+# 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=magrash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=magrash&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 # 📈 Most Used Languages
 
@@ -158,13 +125,40 @@ Technologies:
 
 ---
 
-# 🧪 AI Engineering Focus
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=magrash&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magrash&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧪 Current AI Research Focus
+
+- GraphRAG Systems
+- AI Agent Ecosystems
+- Autonomous AI Workflows
+- Enterprise AI Platforms
+- Industrial AI Monitoring Systems
+- Scalable LLM Infrastructure
+
+---
+
+# ⚡ AI Engineering Strength
 
 AI Systems Architecture  
 ███████████████████████████████ 95%
 
 LLM Engineering  
-████████████████████████████ 92%
+████████████████████████████ 93%
 
 Machine Learning  
 ███████████████████████████ 90%
@@ -173,40 +167,55 @@ Computer Vision
 █████████████████████████ 88%
 
 AI Agents  
-████████████████████████████ 93%
+████████████████████████████ 94%
 
 ---
 
 # 🌍 Vision
 
-My goal is to build **next-generation AI platforms** capable of:
+Building **next-generation AI platforms** capable of:
 
 - Autonomous decision making
-- Intelligent monitoring systems
-- AI-driven infrastructure
-- Industrial automation using AI
-- Scalable enterprise AI systems
+- AI-driven monitoring systems
+- Industrial automation
+- Scalable enterprise AI
+- Intelligent infrastructure
 
 ---
 
-# 🤝 Open for Collaboration
+# 🤝 Open For Collaboration
 
-Interested in working on:
+I am interested in collaborating on:
 
 - AI Startups
-- LLM Platforms
-- Industrial AI Systems
 - Research Projects
-- Advanced Machine Learning
+- LLM Systems
+- Industrial AI Platforms
 - Autonomous AI Systems
 
 ---
 
+# 🐍 GitHub Contribution Snake Animation
+
 <p align="center">
-⭐ If you like AI, RAG systems, and advanced engineering — feel free to follow!
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Footer Animation -->
+---
+
+# ⭐ Profile Views
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=magrash&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like AI, advanced engineering, and intelligent systems — feel free to follow!
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
 </p>
