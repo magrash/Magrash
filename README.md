@@ -253,15 +253,7 @@ Enterprise-scale AI infrastructure
 
 ---
 
-# 📊 Profile Metrics
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=magrash&label=Profile%20Views&color=blue&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/magrash?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/magrash?style=for-the-badge"/>
-</p>
-
----
 
 # ⚡ AI Developer Life
 
