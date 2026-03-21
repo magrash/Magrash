@@ -1,121 +1,174 @@
-<!-- ===================================================== -->
-<!--                    ANIMATED HEADER                    -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:f2fcfe&height=260&section=header&text=Magrash%20AI%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:f2fcfe&height=260&section=header&text=Abdelrhman%20Magrash%20AI%20Engineer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Magrash</h1>
-<h3 align="center">AI Engineer • Machine Learning Specialist • AI Systems Architect</h3>
+<h1 align="center">Hi 👋, I'm Abdelrhman Magrash</h1>
+<h3 align="center">AI Engineer • Machine Learning Specialist • AI Agent Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;LLM+Engineer;RAG+Systems+Developer;AI+Agents+Architect;Industrial+AI+Builder;Machine+Learning+Specialist;Building+Next-Gen+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;LLM+Engineer;RAG+Systems+Developer;AI+Agents+Architect;Computer+Vision+Engineer;Autonomous+Systems+Developer;Industrial+AI+Engineer"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI%20Engineer-Expert-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Systems-Specialist-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Architect-Professional-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-Professional-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Engineer-Advanced-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-Specialist-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Expert-green?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 🧠 About Me
 
-🧠 AI Engineer focused on building **real-world intelligent systems** and scalable AI platforms.
+AI Engineer specialized in building **production-ready AI systems, AI agents, and intelligent platforms**.
 
-My main focus areas:
+I work on real-world AI solutions across industries including:
 
-- Large Language Models (LLMs)
+- Energy & Oil and Gas
+- Industrial AI Systems
+- Autonomous Systems
+- Computer Vision
+- Enterprise AI Platforms
+
+I focus on **scalable AI deployment, intelligent automation, and LLM-powered systems**. :contentReference[oaicite:1]{index=1}
+
+---
+
+# 🚀 Professional Experience
+
+## AI Engineer — Oil & Gas Industry
+Developed and deployed AI systems for industrial operations:
+
+• Built predictive maintenance ML models that reduced downtime by **12%**  
+• Designed AI agent system analyzing drilling data in real time  
+• Deployed scalable AI services using **Docker + AWS**  
+• Integrated LLM-powered operational intelligence tools for engineers  
+
+---
+
+## Prompt Engineer & Model Evaluator
+Worked on improving Large Language Models by:
+
+• Optimizing prompts and AI response quality  
+• Evaluating AI-generated code for correctness  
+• Designing advanced prompt engineering workflows  
+
+---
+
+## AI Research Assistant — Brain Computer Interfaces
+
+• Improved EEG signal accuracy by **20%**  
+• Built AI-driven perception system for BCI  
+• Enhanced performance of research hardware systems  
+
+---
+
+# 🧠 AI Specializations
+
+- Large Language Models
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Computer Vision Systems
-- AI + Backend Architectures
-- Industrial AI Platforms
-- Autonomous AI Systems
-
-⚡ I specialize in building:
-
-- Production AI Systems
-- Local AI Agents
-- AI Monitoring Platforms
-- Enterprise AI Infrastructure
-- Intelligent Automation
-
----
-
-# 🧠 AI Domains
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,react,docker,aws,git,linux" />
-</p>
+- Computer Vision
+- Autonomous Robotics
+- Reinforcement Learning
+- Industrial AI Systems
+- AI Deployment & MLOps
 
 ---
 
 # 🧰 Tech Stack
 
-## AI / Machine Learning
-- PyTorch
-- TensorFlow
-- HuggingFace
-- Scikit-learn
-- LangChain
-- Vector Databases
-- RAG Pipelines
-- AI Agents
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,react,docker,aws,git,linux,cpp,nodejs"/>
+</p>
 
-## Backend
-- FastAPI
-- REST APIs
-- Microservices
-- Docker
-- Cloud Infrastructure
+### Programming
+Python • C • C++ • JavaScript • SQL • MATLAB
 
-## Frontend
-- React
-- JavaScript
-- AI Dashboards
+### AI / ML
+PyTorch  
+TensorFlow  
+Scikit-learn  
+Keras  
+LangChain  
+MLflow  
+
+### Computer Vision
+OpenCV  
+YOLO  
+Real-time detection systems
+
+### Robotics
+ROS  
+Gazebo  
+SLAM  
+Rviz
+
+### Data Science
+Pandas  
+NumPy  
+Plotly  
+Seaborn  
+Matplotlib  
+Streamlit
+
+### DevOps
+Docker  
+AWS  
+Firebase  
 
 ---
 
 # 🔥 Featured Projects
 
-## 🤖 RAG AI Agent
-Full-stack RAG system built using:
+## Production Computer Vision System
+Real-time object detection platform:
+
+YOLOv8 • Edge AI • Docker Deployment
+
+• Achieved **98% accuracy**
+• Deployed on edge device
+• Industrial quality inspection system
+
+---
+
+## RAG AI Agent Platform
+
+AI-powered knowledge assistant built using:
 
 FastAPI • LangChain • ChromaDB • React
 
 Features:
-- Context-aware AI
-- Intelligent retrieval
-- Production-ready architecture
+- Semantic search
+- Document intelligence
+- AI chat interface
 
 ---
 
-## 🫀 Heart Disease Prediction Model
+## Autonomous Delivery Vehicle
 
-ML system using:
-Random Forest • Scikit-learn • Flask
+Built an autonomous vehicle using:
+
+ROS • SLAM • OpenCV • Gazebo
 
 Capabilities:
-- Predictive analytics
-- Dataset modeling
-- High accuracy inference
+- Navigation
+- Obstacle avoidance
+- Real-time path planning
 
 ---
 
-## 🔐 Local AI Agent
+## AI Healthcare Prediction System
 
-Fully private AI system with:
+Heart attack prediction platform using:
 
-Ollama • LangChain • Local LLMs
-
-Features:
-- Offline inference
-- Secure AI
-- Local deployment
+Logistic Regression  
+Neural Networks  
+Docker Deployment
 
 ---
 
@@ -135,53 +188,11 @@ Features:
 
 ---
 
-# 🔥 Contribution Activity Graph
+# 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=magrash&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-# 🧪 Current AI Research Focus
-
-- GraphRAG
-- AI Agent Systems
-- Autonomous AI Workflows
-- Enterprise AI Platforms
-- Industrial AI Monitoring Systems
-- Scalable LLM Infrastructure
-
----
-
-# ⚡ AI Engineering Strength
-
-AI Systems Architecture  
-███████████████████████████████ 95%
-
-LLM Engineering  
-████████████████████████████ 93%
-
-Machine Learning  
-███████████████████████████ 90%
-
-Computer Vision  
-█████████████████████████ 88%
-
-AI Agents  
-████████████████████████████ 94%
-
----
-
-# 🌍 Vision
-
-Building **next-generation AI platforms** capable of:
-
-- Autonomous decision making
-- AI-driven monitoring systems
-- Industrial automation
-- Scalable enterprise AI
-- Intelligent infrastructure
 
 ---
 
@@ -193,15 +204,56 @@ Building **next-generation AI platforms** capable of:
 
 ---
 
-# 🎯 AI Tools I Use
+# 🎓 Education
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,react,fastapi,git,linux"/>
-</p>
+Bachelor of Science in Artificial Intelligence  
+Major: Intelligent Systems
+
+Joint Program:
+Arab Academy for Science, Technology and Maritime Transport  
+Universitat Autònoma de Barcelona
 
 ---
 
-# 🧭 Profile Metrics
+# 📜 Certifications
+
+Machine Learning in Production — DeepLearning.AI  
+AWS Cloud Foundations — AWS Academy  
+Data Science Diploma — Machinfy
+
+---
+
+# ⚡ AI Engineering Strength
+
+AI Systems Architecture  
+███████████████████████████████ 96%
+
+LLM Engineering  
+████████████████████████████ 94%
+
+Machine Learning  
+███████████████████████████ 91%
+
+Computer Vision  
+█████████████████████████ 90%
+
+AI Agents  
+████████████████████████████ 95%
+
+---
+
+# 🌍 Vision
+
+My mission is to build:
+
+Next-generation AI platforms  
+Autonomous AI systems  
+Industrial intelligence systems  
+Enterprise-scale AI infrastructure
+
+---
+
+# 📊 Profile Metrics
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=magrash&label=Profile%20Views&color=blue&style=for-the-badge"/>
@@ -211,34 +263,31 @@ Building **next-generation AI platforms** capable of:
 
 ---
 
-# ⚡ Fun Dev Animation
+# ⚡ AI Developer Life
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
 </p>
 
 ---
 
 # 🤝 Collaboration
 
-Interested in:
+Open to collaborating on:
 
-AI Startups  
-LLM Platforms  
-Advanced ML Systems  
-Industrial AI  
-Autonomous AI
+AI startups  
+LLM platforms  
+Industrial AI systems  
+Autonomous AI projects  
+Research collaborations
 
 ---
 
 <p align="center">
-⭐ If you like AI, LLM systems, and advanced engineering — follow my work!
+⭐ Follow my work if you are interested in AI, LLMs, and advanced intelligent systems.
 </p>
 
-<!-- ===================================================== -->
-<!--                    ANIMATED FOOTER                    -->
-<!-- ===================================================== -->
-
+<!-- FOOTER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2fcfe,50:1c92d2,100:2c5364&height=160&section=footer"/>
 </p>
