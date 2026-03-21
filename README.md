@@ -1,45 +1,55 @@
-<!-- Animated Header -->
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Magrash%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:1c92d2,100:f2fcfe&height=260&section=header&text=Magrash%20AI%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Magrash</h1>
-<h3 align="center">AI Engineer | Machine Learning Specialist | AI Systems Architect</h3>
+<h1 align="center">Hi 👋 I'm Magrash</h1>
+<h3 align="center">AI Engineer • Machine Learning Specialist • AI Systems Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Specialist;LLM+and+RAG+Systems+Developer;AI+Agents+Architect;Industrial+AI+Builder;Scalable+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;LLM+Engineer;RAG+Systems+Developer;AI+Agents+Architect;Industrial+AI+Builder;Machine+Learning+Specialist;Building+Next-Gen+AI+Systems"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Engineer-Expert-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Systems-Specialist-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Architect-Professional-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🧠 AI Engineer focused on building **real-world intelligent systems**.
+🧠 AI Engineer focused on building **real-world intelligent systems** and scalable AI platforms.
 
-🔬 My main focus areas:
+My main focus areas:
+
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Production AI Systems
+- Computer Vision Systems
 - AI + Backend Architectures
 - Industrial AI Platforms
+- Autonomous AI Systems
 
 ⚡ I specialize in building:
-- Local AI systems
-- Scalable AI platforms
-- Intelligent automation solutions
-- AI-powered monitoring systems
 
-📫 Contact  
-Email: **magrash6@gmail.com**  
-LinkedIn: **https://linkedin.com/in/abdalrahman-magrash**
+- Production AI Systems
+- Local AI Agents
+- AI Monitoring Platforms
+- Enterprise AI Infrastructure
+- Intelligent Automation
 
 ---
 
 # 🧠 AI Domains
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,opencv,fastapi,react,js,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,react,docker,aws,git,linux" />
 </p>
 
 ---
@@ -49,16 +59,16 @@ LinkedIn: **https://linkedin.com/in/abdalrahman-magrash**
 ## AI / Machine Learning
 - PyTorch
 - TensorFlow
+- HuggingFace
 - Scikit-learn
-- Hugging Face
 - LangChain
 - Vector Databases
 - RAG Pipelines
 - AI Agents
 
-## Backend Systems
+## Backend
 - FastAPI
-- Python APIs
+- REST APIs
 - Microservices
 - Docker
 - Cloud Infrastructure
@@ -73,54 +83,46 @@ LinkedIn: **https://linkedin.com/in/abdalrahman-magrash**
 # 🔥 Featured Projects
 
 ## 🤖 RAG AI Agent
-Full-stack intelligent system built with:
-- FastAPI
-- LangChain
-- ChromaDB
-- React
+Full-stack RAG system built using:
 
-Capabilities:
-- Document retrieval
-- AI reasoning
-- Context-based responses
+FastAPI • LangChain • ChromaDB • React
+
+Features:
+- Context-aware AI
+- Intelligent retrieval
+- Production-ready architecture
 
 ---
 
-## 🫀 Heart Disease Prediction
-Machine learning model using:
-- Random Forest
-- Scikit-learn
-- Flask
+## 🫀 Heart Disease Prediction Model
 
-Used for:
+ML system using:
+Random Forest • Scikit-learn • Flask
+
+Capabilities:
 - Predictive analytics
-- Medical dataset modeling
+- Dataset modeling
+- High accuracy inference
 
 ---
 
 ## 🔐 Local AI Agent
-Privacy-focused AI system running locally.
 
-Tech:
-- Ollama
-- LangChain
-- Local LLM inference
+Fully private AI system with:
 
----
+Ollama • LangChain • Local LLMs
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=magrash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=magrash&theme=tokyonight&hide_border=true"/>
-</p>
+Features:
+- Offline inference
+- Secure AI
+- Local deployment
 
 ---
 
-# 📈 Most Used Languages
+# 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magrash&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -128,23 +130,23 @@ Tech:
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=magrash&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=magrash&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magrash&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=magrash&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 🧪 Current AI Research Focus
 
-- GraphRAG Systems
-- AI Agent Ecosystems
+- GraphRAG
+- AI Agent Systems
 - Autonomous AI Workflows
 - Enterprise AI Platforms
 - Industrial AI Monitoring Systems
@@ -183,39 +185,60 @@ Building **next-generation AI platforms** capable of:
 
 ---
 
-# 🤝 Open For Collaboration
-
-I am interested in collaborating on:
-
-- AI Startups
-- Research Projects
-- LLM Systems
-- Industrial AI Platforms
-- Autonomous AI Systems
-
----
-
-# 🐍 GitHub Contribution Snake Animation
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# ⭐ Profile Views
+# 🎯 AI Tools I Use
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=magrash&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,react,fastapi,git,linux"/>
 </p>
 
 ---
 
+# 🧭 Profile Metrics
+
 <p align="center">
-⭐ If you like AI, advanced engineering, and intelligent systems — feel free to follow!
+<img src="https://komarev.com/ghpvc/?username=magrash&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/magrash?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/magrash?style=for-the-badge"/>
 </p>
 
-<!-- Animated Footer -->
+---
+
+# ⚡ Fun Dev Animation
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🤝 Collaboration
+
+Interested in:
+
+AI Startups  
+LLM Platforms  
+Advanced ML Systems  
+Industrial AI  
+Autonomous AI
+
+---
+
+<p align="center">
+⭐ If you like AI, LLM systems, and advanced engineering — follow my work!
+</p>
+
+<!-- ===================================================== -->
+<!--                    ANIMATED FOOTER                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2fcfe,50:1c92d2,100:2c5364&height=160&section=footer"/>
 </p>
