@@ -222,23 +222,22 @@ AWS Cloud Foundations — AWS Academy
 Data Science Diploma — Machinfy
 
 ---
-
 # ⚡ AI Engineering Strength
 
-AI Systems Architecture  
-███████████████████████████████ 96%
+**AI Systems Architecture**
+![96%](https://geps.dev/progress/96?dangerColor=00C2FF&accColor=00C2FF)
 
-LLM Engineering  
-████████████████████████████ 94%
+**LLM Engineering**
+![94%](https://geps.dev/progress/94?dangerColor=7B2CBF&accColor=7B2CBF)
 
-Machine Learning  
-███████████████████████████ 91%
+**Machine Learning**
+![90%](https://geps.dev/progress/90?dangerColor=38B000&accColor=38B000)
 
-Computer Vision  
-█████████████████████████ 90%
+**Computer Vision**
+![92%](https://geps.dev/progress/90?dangerColor=38B000&accColor=38B000)
 
-AI Agents  
-████████████████████████████ 95%
+**AI Agents / Autonomy**
+![95%](https://geps.dev/progress/95?dangerColor=FF9100&accColor=FF9100)
 
 ---
 
