@@ -258,7 +258,7 @@ Enterprise-scale AI infrastructure
 # ⚡ AI Developer Life
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520"/>
+  <img src="https://cdn.dribbble.com/users/1160700/screenshots/16010078/media/2513ee634863c0a283995f50f9686884.gif" width="600" alt="AI Development Animation" />
 </p>
 
 ---
